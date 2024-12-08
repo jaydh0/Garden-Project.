@@ -1,0 +1,1 @@
+The whole webpage is now done and the webpage is responsive for tablet and phone dimensions. 
